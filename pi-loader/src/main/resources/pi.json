@@ -1,0 +1,24 @@
+{
+	"piUrl" : "10.73.20.51",
+	"piUid" : "pidemo",
+	"piPwd" : "",
+	"targetUrl" : "http://10.136.250.16/kinzo-safety/gis/reportDangerAttr",
+	"resultName" : "code",
+	"pointGroups" : [{
+		"ccode" : "02da78e934c04854aecd0995791204a7b3f6436adbc3433f9e249a92f723c6a1",
+		"sendNames" : ["doccur", "cname", "nvalue"],
+		"attrs" : [{
+					"piName" : "TX:HSJ21CT301",
+					"cname" : "A0010"
+				}, {
+					"piName" : "TX:HSJ21CP101",
+					"cname" : "A0020"
+				}, {
+					"piName" : "TX:HSJ21CL101",
+					"cname" : "A0030"
+				}, {
+					"piName" : "TX:HSJ01CQ106",
+					"cname" : "A0040"
+				}]
+	}]
+}
